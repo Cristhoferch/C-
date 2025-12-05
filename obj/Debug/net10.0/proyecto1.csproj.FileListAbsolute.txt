@@ -1,0 +1,14 @@
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\bin\Debug\net10.0\proyecto1.exe
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\bin\Debug\net10.0\proyecto1.deps.json
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\bin\Debug\net10.0\proyecto1.runtimeconfig.json
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\bin\Debug\net10.0\proyecto1.dll
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\bin\Debug\net10.0\proyecto1.pdb
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.AssemblyInfoInputs.cache
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.AssemblyInfo.cs
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.dll
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\refint\proyecto1.dll
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.pdb
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\proyecto1.genruntimeconfig.cache
+C:\Users\CRISTHOFER\Documents\Proyectos\proyecto1\obj\Debug\net10.0\ref\proyecto1.dll
