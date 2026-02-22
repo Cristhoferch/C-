@@ -1,0 +1,4 @@
+C:\Users\CRISTHOFER\Documents\Proyectos\obj\Debug\net10.0\Proyectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTHOFER\Documents\Proyectos\obj\Debug\net10.0\Proyectos.AssemblyInfoInputs.cache
+C:\Users\CRISTHOFER\Documents\Proyectos\obj\Debug\net10.0\Proyectos.AssemblyInfo.cs
+C:\Users\CRISTHOFER\Documents\Proyectos\obj\Debug\net10.0\Proyectos.csproj.CoreCompileInputs.cache
