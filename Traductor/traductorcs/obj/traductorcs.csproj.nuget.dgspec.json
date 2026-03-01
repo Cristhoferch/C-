@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Proyectos.csproj": {}
+    "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Traductor\\traductorcs\\traductorcs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Proyectos.csproj": {
+    "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Traductor\\traductorcs\\traductorcs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Proyectos.csproj",
-        "projectName": "Proyectos",
-        "projectPath": "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Proyectos.csproj",
+        "projectUniqueName": "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Traductor\\traductorcs\\traductorcs.csproj",
+        "projectName": "traductorcs",
+        "projectPath": "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Traductor\\traductorcs\\traductorcs.csproj",
         "packagesPath": "C:\\Users\\CRISTHOFER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\obj\\",
+        "outputPath": "C:\\Users\\CRISTHOFER\\Documents\\conjuntos\\Traductor\\traductorcs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRISTHOFER\\AppData\\Roaming\\NuGet\\NuGet.Config"

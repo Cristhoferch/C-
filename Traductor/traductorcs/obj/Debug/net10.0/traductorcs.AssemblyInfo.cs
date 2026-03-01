@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("conjunto")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("traductorcs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5730f9039f899691a87a74ca079e3dac5ef0a935")]
-[assembly: System.Reflection.AssemblyProductAttribute("conjunto")]
-[assembly: System.Reflection.AssemblyTitleAttribute("conjunto")]
+[assembly: System.Reflection.AssemblyProductAttribute("traductorcs")]
+[assembly: System.Reflection.AssemblyTitleAttribute("traductorcs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

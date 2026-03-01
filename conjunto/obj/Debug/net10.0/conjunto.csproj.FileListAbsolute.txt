@@ -1,0 +1,15 @@
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\bin\Debug\net10.0\conjunto.exe
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\bin\Debug\net10.0\conjunto.deps.json
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\bin\Debug\net10.0\conjunto.runtimeconfig.json
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\bin\Debug\net10.0\conjunto.dll
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\bin\Debug\net10.0\conjunto.pdb
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.AssemblyInfoInputs.cache
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.AssemblyInfo.cs
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.csproj.CoreCompileInputs.cache
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.sourcelink.json
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.dll
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\refint\conjunto.dll
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.pdb
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\conjunto.genruntimeconfig.cache
+C:\Users\CRISTHOFER\Documents\conjuntos\conjunto\obj\Debug\net10.0\ref\conjunto.dll
